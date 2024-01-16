@@ -20,6 +20,10 @@ git commit -m <message>
 ```
 
 ```
+git remote add origin https://github..com/Peter-Pear/<PROJECT_NAME>
+```
+
+```
 git remote set-url origin git+ssh://git@github.com/Peter-Pear/<PROJECT NAME>
 ```
 
