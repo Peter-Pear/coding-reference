@@ -9,12 +9,12 @@ CHEAT-CHEAT - https://markdown.land/markdown-cheat-sheet
   - Push **%** (to jump to the matching bracket).
 
 #### Html tag selection
-  - select inner tag **it**
-  - select outer tag **at**
+  - select inner tag: **it**
+  - select outer tag: **at**
 
 #### Move to next/previous bracket/parenthesis
   - next: **]}**
-  - previous **[{**
+  - previous: **[{**
 
 
 # GIT
