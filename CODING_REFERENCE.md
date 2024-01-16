@@ -8,6 +8,14 @@ CHEAT-CHEAT - https://markdown.land/markdown-cheat-sheet
   - Push **v** or **V** (depending on whether you want to select lines or not)
   - Push **%** (to jump to the matching bracket).
 
+#### Html tag selection
+  - select inner tag **it**
+  - select outer tag **at**
+
+#### Move to next/previous bracket/parenthesis
+  - next: **]}**
+  - previous **[{**
+
 
 # GIT
 
