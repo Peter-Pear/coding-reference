@@ -2,8 +2,6 @@
 
 CHEAT-CHEAT - https://markdown.land/markdown-cheat-sheet
 
-## GIT USEFULL COMMANDS
-
 #### Start project in existing folder
 
 ```
@@ -41,10 +39,9 @@ git merge <BRANCH>
 # COMMAND LINE
 
 
-## GREP Usefull command line tips
-
+## GREP
 ```
-grep --include=<Regex> -Rnw <FILE_PATH> -e <TEXT_PATTERN>
+grep --include=<REGEX> -Rnw <FILE_PATH> -e <TEXT_PATTERN>
 
 ```
   - REGEX: \*.scss for only include scss files
