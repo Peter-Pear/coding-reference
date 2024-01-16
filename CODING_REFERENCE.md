@@ -1,6 +1,15 @@
-# GIT
-
 CHEAT-CHEAT - https://markdown.land/markdown-cheat-sheet
+
+
+# NVIM
+
+#### Select block of code
+  - Hit **$** to go to the end of the lineover the {
+  - Push **v** or **V** (depending on whether you want to select lines or not)
+  - Push **%** (to jump to the matching bracket).
+
+
+# GIT
 
 #### Start project in existing folder
 
