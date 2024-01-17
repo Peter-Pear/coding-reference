@@ -13,8 +13,16 @@ CHEAT-CHEAT - https://markdown.land/markdown-cheat-sheet
   - select outer tag: **at**
 
 #### Move to next/previous bracket/parenthesis
-  - next: **]}**
-  - previous: **[{**
+  - [( - Previous (
+  - [{ - Previous {
+  - [< - Previous <
+
+  - [m - Previous method start
+  - [M - Previous method end
+
+  - ]} - Next }
+  - ]) - Next )
+  - ]> - Next >
 
 
 # GIT
