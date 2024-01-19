@@ -27,7 +27,7 @@ CHEAT-CHEAT - https://markdown.land/markdown-cheat-sheet
 #### Select paragraph VISUAL MODE
   - vip
   - vis
-
+  - v35j/k - select from current line 35 lines down/up
 
 # GIT
 
