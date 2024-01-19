@@ -24,6 +24,10 @@ CHEAT-CHEAT - https://markdown.land/markdown-cheat-sheet
   - ]) - Next )
   - ]> - Next >
 
+#### Select paragraph VISUAL MODE
+  - vip
+  - vis
+
 
 # GIT
 
