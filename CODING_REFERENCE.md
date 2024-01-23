@@ -29,6 +29,13 @@ CHEAT-CHEAT - https://markdown.land/markdown-cheat-sheet
   - vis
   - v35j/k - select from current line 35 lines down/up
 
+#### Comment line/block of code
+  - v -> gc
+
+#### Redo
+  - Ctrl + r
+
+
 # GIT
 
 #### Start project in existing folder
